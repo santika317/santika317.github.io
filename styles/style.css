@@ -1,0 +1,20 @@
+body {
+    background-color: pink;
+    color: rgb(23, 24, 24)
+    font-family : Helvetica, Arial, sans-serif;
+    font-size : 16 px;
+    line-height : 1.5em;
+    margin: 0;
+    padding: 0:
+}
+/* End Body */
+
+/* Start Debug */
+.bg-cyan {
+    background-color: cyan;
+}
+
+.bg-darkturquoise {
+    background-color: darkturquoise;
+}
+/* End Debug */
